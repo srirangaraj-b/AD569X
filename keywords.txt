@@ -1,0 +1,33 @@
+# Datatypes
+AD569x          KEYWORD1
+AD569xModel     KEYWORD2
+AD569xGain      KEYWORD2
+AD569xPowerDownMode KEYWORD2
+
+# Methods
+begin           KEYWORD2
+setCode         KEYWORD2
+writeCode       KEYWORD2
+update          KEYWORD2
+updateAll       KEYWORD2
+setVoltage      KEYWORD2
+voltageToCode   KEYWORD2
+codeToVoltage   KEYWORD2
+setGain         KEYWORD2
+powerDown       KEYWORD2
+reset           KEYWORD2
+getModel        KEYWORD2
+getResolution   KEYWORD2
+getChannelCount KEYWORD2
+isConnected     KEYWORD2
+setCustomSpan   KEYWORD2
+
+# Constants
+AD5694          LITERAL1
+AD5696          LITERAL1
+GAIN_1X         LITERAL1
+GAIN_2X         LITERAL1
+PD_NORMAL       LITERAL1
+PD_1K_GND       LITERAL1
+PD_100K_GND     LITERAL1
+PD_THREE_STATE  LITERAL1
